@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.exe
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.deps.json
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.runtimeconfig.json
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.runtimeconfig.dev.json
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.dll
+C:\Users\user\source\repos\MyList\bin\Debug\netcoreapp3.0\MyList.pdb
+C:\Users\user\source\repos\MyList\obj\Debug\netcoreapp3.0\MyList.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyList\obj\Debug\netcoreapp3.0\MyList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyList\obj\Debug\netcoreapp3.0\MyList.AssemblyInfo.cs
+C:\Users\user\source\repos\MyList\obj\Debug\netcoreapp3.0\MyList.dll
+C:\Users\user\source\repos\MyList\obj\Debug\netcoreapp3.0\MyList.pdb
